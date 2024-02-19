@@ -81,7 +81,7 @@ select{
     outline: 0;
     padding: 0 20px;
     appearance: none;
-    background-image: url("/Text_To_Speech/text_to_speech_img/images/dropdown.png");
+    background-image: url("/Text_To_Speech/text_to_speech_img/dropdown.png");
     background-repeat: no-repeat;
     background-size: 15px;
     background-position-x: calc(100% - 20px);
